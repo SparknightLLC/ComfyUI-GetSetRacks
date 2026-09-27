@@ -2,7 +2,7 @@
 
  Frontend-only nodes that publish or read many named variables at once: a rack of setters, and a rack of getters.
 
- Intended to be used with [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes), which provides the indivudal `Get`/`Set` node variants.
+ Intended to be used with [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes), which provides the individual `Get`/`Set` node variants.
 
  ![Workflow](example_workflows/example_workflow.png)
  
