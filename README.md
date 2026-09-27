@@ -4,7 +4,9 @@
 
  Intended to be used with [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes), which provides the indivudal `Get`/`Set` node variants.
 
- ![Workflow](example_workflows/example_workflow.png) ## Why racks
+ ![Workflow](example_workflows/example_workflow.png)
+ 
+ ## Why racks
 
  ComfyUI's editor gets slower as a graph grows, and `Set` nodes are cheap to add and expensive to live with:
 
