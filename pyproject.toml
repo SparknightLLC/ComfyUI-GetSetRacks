@@ -1,0 +1,15 @@
+# pyproject.toml
+[project]
+name = "ComfyUI-GetSetRacks" # Immutable Comfy Registry ID; repository/display names may differ.
+description = "Frontend-only nodes that publish or read many named variables at once: a rack of setters, and a rack of getters."
+version = "0.1.0"
+license = { file = "LICENSE" }
+dependencies = []
+keywords = []
+
+[project.urls]
+Repository = "https://github.com/SparknightLLC/ComfyUI-GetSetRacks"
+
+[tool.comfy]
+PublisherId = "sparknight"
+DisplayName = "ComfyUI-GetSetRacks"
